@@ -1,0 +1,121 @@
+*{
+    padding: 0px;  
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+ background: linear-gradient(#FFFFFF,#E6E6E6,#808080);
+  width: 1600px;
+  height: 1200px;
+}
+.contenedor{
+    margin-top: 200px;
+    margin-bottom: 20px;
+    border: 0.5px solid;
+    width: 1400px;
+    height: 900px;
+    margin-left: 250px;
+    background-color: #ffffff;
+    
+}.logometrolinea{
+    padding: 20px;
+ }
+ .texto{
+    margin-top: -40px;
+     font-size: 30px;
+     margin-left: 730px;
+ 
+ }
+ .saldo{
+    position: absolute;
+    font-size: 30px;
+    margin-left: 950px;
+    margin-top: -30px;
+    text-decoration: black;
+}
+.buscar{
+    margin-left: 1110px;
+    margin-top: -20px;
+    position: absolute;
+}
+.shop{
+        margin-left: 85%;
+        margin-top: -20px;
+    }
+    .tarjeta{
+        font-size: 40px;
+        margin-left: 70px;
+    }
+    .saldo1{
+        font-size: 35px;
+        margin-left: 79px;
+    }
+    .SE{
+        font-size: 35px;
+    }
+    .logo1{
+        margin-left: 1020px;
+         position: absolute;
+         z-index: 1;
+       
+     }
+.cuadro{
+        margin-left: 1000px;
+    }
+.comprar{
+        font-size: 30px;
+        margin-left: 1020px;
+        margin-top: -50px;
+    }
+.barra{
+        height: 900px;
+        margin-left: 1279px;
+        margin-top: -835px;
+    }  
+.flecha1{
+        margin-left: 69%;
+        position: absolute;
+        margin-top: -850px;}
+.flecha2{
+        margin-left: 69%;
+        position: absolute;
+        margin-top: -100px;
+        }
+.valor{font-size: 30px;
+       margin-left: 68%;
+       position: absolute;
+       margin-top: -800px;
+       color: #ffffff;}
+        
+.mil{
+    font-size: 30px;
+       margin-left: 68%;
+       position: absolute;
+       margin-top: -570px;
+       color: #ffffff;}
+.mil2{
+        font-size: 30px;
+           margin-left: 68%;
+           position: absolute;
+           margin-top: -490px;
+           color: #ffffff;}
+           .mil3{
+            font-size: 30px;
+               margin-left: 68%;
+               position: absolute;
+               margin-top: -400px;
+               color: #ffffff;}     
+.cuadro2{
+    border: 2px solid;
+    border-radius: 10px;
+    width: 200px;
+    height: 70px;
+    margin-top: -140px;
+    font-size: 40px;
+
+}                 
+.line1{
+    margin-top: 40px;
+    position: absolute;
+    margin-left: 940px;
+}
